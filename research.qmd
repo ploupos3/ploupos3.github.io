@@ -1,0 +1,49 @@
+---
+title: "Research"
+description: "Research themes and current projects"
+---
+
+My research examines digital platforms, social networks, social CRM, and business analytics. I am especially interested in how modern data infrastructure makes consumer and firm behavior observable in networked settings, and how methods from machine learning, econometrics, and network science can be used responsibly in those settings.
+
+## AI, Digital Platforms, and Consumer Analytics
+
+Digital platforms collect and act on large-scale behavioral data. My work in this area studies how platform data strategies shape technological, organizational, and economic choices, and how analytics can support consumer understanding without ignoring privacy and governance concerns.
+
+Relevant work:
+
+- [Platform Data Strategy](publications.qmd#platform-data-strategy)
+- [Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship](publications.qmd#fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship)
+
+## Social Networks and Peer-to-Peer Platforms
+
+Peer-to-peer digital platforms create rich networks in which transactions, social connections, and offline interactions are intertwined. My research studies how network structure affects customer behavior, activity, acquisition, and valuation in these environments.
+
+Relevant work:
+
+- [The Structure and Evolution of an Offline Peer-to-Peer Financial Network](publications.qmd#the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network)
+- [Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms](publications.qmd#network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure)
+
+## FinTech, Crypto, and Blockchain Analytics
+
+Digital financial platforms create new forms of transaction data and new managerial and regulatory questions. I study peer-to-peer payment networks, illicit activity on fintech platforms, and diffusion dynamics in crypto-token ecosystems.
+
+Relevant work:
+
+- [Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets](publications.qmd#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets)
+- [Modeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage](publications.qmd#modeling-the-diffusion-dynamics-of-crypto-tokens-a-dual-process-approach-to-adoption-and-usage)
+
+## Causal Inference and Machine Learning on Networks
+
+Networked data complicate causal inference because treatment, outcomes, and selection can all be shaped by peer effects and network structure. My current work studies how graph neural networks can help adjust for high-dimensional network confounding.
+
+Relevant work:
+
+- [Graph Neural Networks for Causal Inference Under Network Confounding](publications.qmd#graph-neural-networks-for-causal-inference-under-network-confounding)
+
+## Retail Analytics and Recommendation Systems
+
+I am also interested in ranking, attention allocation, and inventory dynamics in recommendation environments, especially where platform decisions interact with operational constraints.
+
+Relevant work:
+
+- [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](publications.qmd#the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics)

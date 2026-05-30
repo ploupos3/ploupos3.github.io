@@ -1,0 +1,70 @@
+---
+title: "Pantelis Loupos"
+description: "Assistant Professor of Marketing and Business Analytics at UC Davis"
+toc: false
+---
+
+::: {.home-hero}
+::: {.home-copy}
+## Assistant Professor of Marketing and Business Analytics
+
+**University of California, Davis Graduate School of Management**
+
+I study how digital platforms create value, risk, and behavior through networks.
+
+My research combines causal inference, machine learning, econometrics, and large-scale platform data to understand how users influence one another, how network structure predicts customer value, and how firms should design platform policies, recommendation systems, and data strategies.
+
+Much of my work focuses on peer-to-peer and networked markets, including fintech platforms, social payment systems, crypto ecosystems, and digital communities. Across these settings, I ask how social connections, user activity, and algorithmic decisions shape adoption, engagement, fraud, demand allocation, and long-run platform growth.
+
+I build empirical and analytical tools for problems where standard customer analytics is not enough because users are connected, behavior spills over across the network, and platform decisions affect both individual outcomes and system-level performance.
+
+[Research](research.qmd){.btn .btn-primary} [Publications](publications.qmd){.btn .btn-outline-primary} [CV](cv.qmd){.btn .btn-outline-secondary}
+:::
+
+::: {.home-photo}
+![](assets/img/profile.jpg){fig-alt="Pantelis Loupos" .profile-photo}
+:::
+:::
+
+## Research Areas
+
+::: {.research-grid}
+::: {.research-card}
+### Networked Digital Platforms
+
+I study digital platforms where users are connected, behavior is visible, and value depends on social structure. My work examines peer-to-peer fintech platforms, social payment systems, digital communities, and crypto ecosystems to understand adoption, engagement, customer value, and platform risk.
+:::
+
+::: {.research-card}
+### Causal AI and Network Analytics
+
+I develop and apply causal inference, machine learning, graph neural networks, and econometric methods for settings where users influence one another. A central theme in my work is how to estimate causal effects and predict behavior when outcomes are shaped by network spillovers, peer effects, and endogenous platform activity.
+:::
+
+::: {.research-card}
+### Platform Strategy and Decision Systems
+
+I study how firms should use platform data to make better decisions about growth, retention, risk detection, recommendation ranking, and resource allocation. This stream connects academic research with practical problems in customer analytics, fintech, digital strategy, and AI-driven decision-making.
+:::
+:::
+
+## Selected Publications and Current Papers
+
+- **Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship.** Joint work with Hemant Bhargava et al. *Management Science*, 2026.
+- **Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets.** Joint work with Jörn Boehnke and Ying Gu. *Annals of Operations Research*, 2023. [Article](https://link.springer.com/article/10.1007/s10479-023-05617-7)
+- **What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry.** Joint work with Yvette Peng, Sute Li, and Hao Hao. *Marketing Letters*, 2023. [Article](https://link.springer.com/article/10.1007/s11002-023-09665-8)
+- **Graph Neural Networks for Causal Inference Under Network Confounding.** Joint work with Michael Leung. Revise and resubmit at *The Review of Economic Studies*. [arXiv](https://arxiv.org/abs/2211.07823)
+
+## Teaching
+
+I teach data-driven and AI-enabled decision-making across operations, customers, and analytics. In the MBA program, I teach core Operations Management and Customer Analytics. In the MSBA program, I teach Big Data Analytics, covering modern data systems, machine learning, deep learning, network analytics, Spark, Kafka, GNNs, and LLMs. I am also a certified NVIDIA instructor on Deep Learning.
+
+[Teaching](teaching.qmd)
+
+## Contact
+
+Pantelis Loupos  
+Graduate School of Management  
+University of California, Davis  
+
+Email: ploupos [at] ucdavis [dot] edu

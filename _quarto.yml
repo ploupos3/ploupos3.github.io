@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Pantelis Loupos"
+  site-url: "https://www.loupos.org"
+  description: "Academic website for Pantelis Loupos, Assistant Professor of Marketing and Business Analytics at UC Davis."
+  navbar:
+    title: "Pantelis Loupos"
+    background: white
+    foreground: "#1f2937"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Academic Journey"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: "© 2026 Pantelis Loupos"
+    right: "Built with Quarto and hosted on GitHub Pages"
+  repo-url: "TODO: Add GitHub repository URL."
+
+resources:
+  - CNAME
+  - assets/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    fontsize: 1rem
+    linestretch: 1.55
+
+execute:
+  freeze: auto

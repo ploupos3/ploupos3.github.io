@@ -1,0 +1,31 @@
+---
+title: "CV"
+toc: false
+---
+
+[Download CV](assets/pdf/Loupos_CV.pdf)
+
+## Academic Position
+
+**Assistant Professor of Marketing and Business Analytics**  
+UC Davis Graduate School of Management, 2019–present
+
+## Education
+
+- **Ph.D. in Operations Management**, Kellogg School of Management, Northwestern University, 2018  
+  Advisor: [Eric Anderson](https://www.kellogg.northwestern.edu/academics-research/faculty/anderson_eric_t/)
+
+- **M.S. in Operations Management**, Kellogg School of Management, Northwestern University
+
+- **M.S. in Operations Research**, Georgia Institute of Technology  
+  Advisor: [Craig A. Tovey](https://www.isye.gatech.edu/users/craig-tovey)
+
+- **Engineer Diploma in Electrical and Computer Engineering**, University of Patras  
+  Advisor: [George V. Moustakides](https://www.ssp.ece.upatras.gr/moustakides/)
+
+- **Teaching Certificate Program**, Searle Center for Advancing Learning & Teaching, Northwestern University, 2016–17
+
+## Academic Affiliations
+
+- Member, Graduate Group in Computer Science, UC Davis
+- Member, Designated Emphasis in Computational Social Science, UC Davis

@@ -1,0 +1,53 @@
+---
+title: "Teaching"
+---
+
+## UC Davis Graduate School of Management
+
+### Operations Management, MGT-452
+
+**Program:** Core MBA  
+
+**Topics:** Process analysis, capacity, queues, inventory, supply-demand matching, bottlenecks, quality, and operational tradeoffs.
+
+This core MBA course teaches students how to analyze and improve the systems that produce and deliver goods and services. The course emphasizes operational decision-making under constraints, with applications to service operations, manufacturing, platforms, and supply chains.
+
+### Customer Analytics, MGT-443
+
+**Program:** MBA  
+
+**Topics:** Customer segmentation, predictive modeling, customer lifetime value, acquisition, retention, churn, personalization, CRM strategy, and AI agents.
+
+This course teaches students how to use customer-level data to make better marketing and growth decisions. The course connects statistical modeling, machine learning, and AI-enabled customer systems to managerial questions about which customers to acquire, retain, target, personalize for, and prioritize.
+
+### Big Data Analytics, BAX-423
+
+**Program:** Master of Business Analytics, San Francisco  
+
+**Topics:** Apache Spark, Kafka, machine learning, deep learning, graph neural networks, large language models, and generative AI.
+
+This course teaches students how to work with large-scale data systems and modern AI methods in business analytics. The course combines scalable data engineering with machine learning applications in text, networks, prediction, and generative modeling.
+
+## NVIDIA Deep Learning Institute
+
+**Certified Instructor**
+
+## Previous Teaching
+
+### Kellogg School of Management, Northwestern University
+
+Teaching assistant for Executive MBA and MBA courses:
+
+- Marketing Analytics: Leading with Big Data
+- Retail Analytics: Pricing and Promotion
+- Decision Modeling and Optimization in Excel
+- The General Rookie Manager
+- Analytical Decision Modeling in Excel
+- Applied Advanced Analytics
+
+### Georgia Institute of Technology
+
+Teaching assistant for:
+
+- Statistics and Applications
+- Stochastic Manufacturing and Service Systems

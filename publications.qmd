@@ -1,0 +1,73 @@
+---
+title: "Publications"
+---
+
+## Published / Forthcoming
+
+### Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship
+
+**Hemant Bhargava et al.** *Management Science*, 2026.  
+
+Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
+
+### Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets
+
+**Jörn Boehnke, Pantelis Loupos, and Ying Gu.** *Annals of Operations Research*, 2023.  
+[Article](https://link.springer.com/article/10.1007/s10479-023-05617-7) | [DOI](https://doi.org/10.1007/s10479-023-05617-7)
+
+Uses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.
+
+Media coverage: [UC Davis News](https://www.ucdavis.edu/news/digital-payment-platforms-can-easily-be-misused-drug-dealing-researchers-suggest), [Tech Times](https://www.techtimes.com/articles/298958/20231122/digital-payment-apps-easily-misused-drug-dealing-new-study-finds.htm), [Tech Xplore](https://techxplore.com/news/2023-11-digital-payment-platforms-easily-misused.html), [Mirage News](https://www.miragenews.com/digital-payment-platforms-risk-misuse-in-drug-1128421/), [EurekAlert!](https://www.eurekalert.org/news-releases/1008815)
+
+### What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry
+
+**Pantelis Loupos, Yvette Peng, Sute Li, and Hao Hao.** *Marketing Letters*, 2023.  
+[Article](https://link.springer.com/article/10.1007/s11002-023-09665-8) | [DOI](https://doi.org/10.1007/s11002-023-09665-8)
+
+Shows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.
+
+Media coverage: [UC Davis](https://www.ucdavis.edu/curiosity/blog/can-movie-reviews-predict-box-office-success), [Science X / Phys.org](https://phys.org/news/2023-06-movie-office-success.html), [Mirage News](https://www.miragenews.com/research-can-movie-reviews-predict-box-office-1019593/), [EurekAlert!](https://www.eurekalert.org/news-releases/991379), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12161471/Indiana-Jones-5-gets-slammed-reviews-new-study-says-poor-scores-mean-big-box-office.html)
+
+### Platform Data Strategy
+
+**Hemant K. Bhargava, Olivier Rubel, Elizabeth J. Altman, Ramnik Arora, Jörn Boehnke, Kaitlin Daniels, Timothy Derdenger, Bryan Kirschner, Darin LaFramboise, Pantelis Loupos, Geoffrey Parker, and Adithya Pattabhiramaiah.** *Marketing Letters*, 2020.  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765056) | [DOI](https://doi.org/10.1007/s11002-020-09539-3)
+
+Develops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.
+
+### The Structure and Evolution of an Offline Peer-to-Peer Financial Network
+
+**Pantelis Loupos and Alexandros Nathan.** Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.  
+[arXiv](https://arxiv.org/abs/1806.06328) | [DOI](https://doi.org/10.1007/978-3-030-14459-3_9)
+
+Documents how Venmo's peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties.
+
+## Revise and Resubmit
+
+### Graph Neural Networks for Causal Inference Under Network Confounding
+
+**Michael Leung and Pantelis Loupos.** Revise and resubmit at *The Review of Economic Studies*.  
+[arXiv](https://arxiv.org/abs/2211.07823)
+
+Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.
+
+### Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms: The Role of Initial Community Structure
+
+**Pantelis Loupos and Moran Cerf.** Revise and resubmit, *Decision Support Systems*.  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978)
+
+Shows how a new user's initial network position can predict future activity and customer value before meaningful behavioral history exists.
+
+## Working Papers
+
+### The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics
+
+**Pantelis Loupos and Can Ürgün.** To be submitted to *Management Science*.  
+
+Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
+
+### Modeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage
+
+**Pantelis Loupos and Sriram Venkatesh.** Working paper.  
+
+Develops a diffusion model for engagement-driven digital markets, showing how the interaction between cumulative adoption and active participation determines whether ecosystems scale, stall, or recover.
