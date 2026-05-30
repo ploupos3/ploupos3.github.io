@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "cv.html#academic-position",
+    "href": "cv.html#academic-position",
+    "title": "CV",
+    "section": "Academic Position",
+    "text": "Academic Position\nAssistant Professor of Marketing and Business Analytics\nUC Davis Graduate School of Management, 2019–present"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Operations Management, Kellogg School of Management, Northwestern University, 2018\nAdvisor: Eric Anderson\nM.S. in Operations Management, Kellogg School of Management, Northwestern University\nM.S. in Operations Research, Georgia Institute of Technology\nAdvisor: Craig A. Tovey\nEngineer Diploma in Electrical and Computer Engineering, University of Patras\nAdvisor: George V. Moustakides\nTeaching Certificate Program, Searle Center for Advancing Learning & Teaching, Northwestern University, 2016–17"
+  },
+  {
+    "objectID": "cv.html#academic-affiliations",
+    "href": "cv.html#academic-affiliations",
+    "title": "CV",
+    "section": "Academic Affiliations",
+    "text": "Academic Affiliations\n\nMember, Graduate Group in Computer Science, UC Davis\nMember, Designated Emphasis in Computational Social Science, UC Davis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pantelis Loupos",
+    "section": "",
+    "text": "University of California, Davis Graduate School of Management\nI study how digital platforms create value, risk, and behavior through networks.\nMy research combines causal inference, machine learning, econometrics, and large-scale platform data to understand how users influence one another, how network structure predicts customer value, and how firms should design platform policies, recommendation systems, and data strategies.\nMuch of my work focuses on peer-to-peer and networked markets, including fintech platforms, social payment systems, crypto ecosystems, and digital communities. Across these settings, I ask how social connections, user activity, and algorithmic decisions shape adoption, engagement, fraud, demand allocation, and long-run platform growth.\nI build empirical and analytical tools for problems where standard customer analytics is not enough because users are connected, behavior spills over across the network, and platform decisions affect both individual outcomes and system-level performance.\nResearch Publications CV"
+  },
+  {
+    "objectID": "index.html#assistant-professor-of-marketing-and-business-analytics",
+    "href": "index.html#assistant-professor-of-marketing-and-business-analytics",
+    "title": "Pantelis Loupos",
+    "section": "",
+    "text": "University of California, Davis Graduate School of Management\nI study how digital platforms create value, risk, and behavior through networks.\nMy research combines causal inference, machine learning, econometrics, and large-scale platform data to understand how users influence one another, how network structure predicts customer value, and how firms should design platform policies, recommendation systems, and data strategies.\nMuch of my work focuses on peer-to-peer and networked markets, including fintech platforms, social payment systems, crypto ecosystems, and digital communities. Across these settings, I ask how social connections, user activity, and algorithmic decisions shape adoption, engagement, fraud, demand allocation, and long-run platform growth.\nI build empirical and analytical tools for problems where standard customer analytics is not enough because users are connected, behavior spills over across the network, and platform decisions affect both individual outcomes and system-level performance.\nResearch Publications CV"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Pantelis Loupos",
+    "section": "Research Areas",
+    "text": "Research Areas\n\n\nNetworked Digital Platforms\nI study digital platforms where users are connected, behavior is visible, and value depends on social structure. My work examines peer-to-peer fintech platforms, social payment systems, digital communities, and crypto ecosystems to understand adoption, engagement, customer value, and platform risk.\n\n\nCausal AI and Network Analytics\nI develop and apply causal inference, machine learning, graph neural networks, and econometric methods for settings where users influence one another. A central theme in my work is how to estimate causal effects and predict behavior when outcomes are shaped by network spillovers, peer effects, and endogenous platform activity.\n\n\nPlatform Strategy and Decision Systems\nI study how firms should use platform data to make better decisions about growth, retention, risk detection, recommendation ranking, and resource allocation. This stream connects academic research with practical problems in customer analytics, fintech, digital strategy, and AI-driven decision-making."
+  },
+  {
+    "objectID": "index.html#selected-publications-and-current-papers",
+    "href": "index.html#selected-publications-and-current-papers",
+    "title": "Pantelis Loupos",
+    "section": "Selected Publications and Current Papers",
+    "text": "Selected Publications and Current Papers\n\nFighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship. Joint work with Hemant Bhargava et al. Management Science, 2026.\nSocial Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets. Joint work with Jörn Boehnke and Ying Gu. Annals of Operations Research, 2023. Article\nWhat Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry. Joint work with Yvette Peng, Sute Li, and Hao Hao. Marketing Letters, 2023. Article\nGraph Neural Networks for Causal Inference Under Network Confounding. Joint work with Michael Leung. Revise and resubmit at The Review of Economic Studies. arXiv"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Pantelis Loupos",
+    "section": "Teaching",
+    "text": "Teaching\nI teach data-driven and AI-enabled decision-making across operations, customers, and analytics. In the MBA program, I teach core Operations Management and Customer Analytics. In the MSBA program, I teach Big Data Analytics, covering modern data systems, machine learning, deep learning, network analytics, Spark, Kafka, GNNs, and LLMs. I am also a certified NVIDIA instructor on Deep Learning.\nTeaching"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Pantelis Loupos",
+    "section": "Contact",
+    "text": "Contact\nPantelis Loupos\nGraduate School of Management\nUniversity of California, Davis\nEmail: ploupos [at] ucdavis [dot] edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research examines digital platforms, social networks, social CRM, and business analytics. I am especially interested in how modern data infrastructure makes consumer and firm behavior observable in networked settings, and how methods from machine learning, econometrics, and network science can be used responsibly in those settings."
+  },
+  {
+    "objectID": "research.html#ai-digital-platforms-and-consumer-analytics",
+    "href": "research.html#ai-digital-platforms-and-consumer-analytics",
+    "title": "Research",
+    "section": "AI, Digital Platforms, and Consumer Analytics",
+    "text": "AI, Digital Platforms, and Consumer Analytics\nDigital platforms collect and act on large-scale behavioral data. My work in this area studies how platform data strategies shape technological, organizational, and economic choices, and how analytics can support consumer understanding without ignoring privacy and governance concerns.\nRelevant work:\n\nPlatform Data Strategy\nFighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship"
+  },
+  {
+    "objectID": "research.html#social-networks-and-peer-to-peer-platforms",
+    "href": "research.html#social-networks-and-peer-to-peer-platforms",
+    "title": "Research",
+    "section": "Social Networks and Peer-to-Peer Platforms",
+    "text": "Social Networks and Peer-to-Peer Platforms\nPeer-to-peer digital platforms create rich networks in which transactions, social connections, and offline interactions are intertwined. My research studies how network structure affects customer behavior, activity, acquisition, and valuation in these environments.\nRelevant work:\n\nThe Structure and Evolution of an Offline Peer-to-Peer Financial Network\nNetwork-Based Decision Support for Cold-Start User Valuation in P2P Platforms"
+  },
+  {
+    "objectID": "research.html#fintech-crypto-and-blockchain-analytics",
+    "href": "research.html#fintech-crypto-and-blockchain-analytics",
+    "title": "Research",
+    "section": "FinTech, Crypto, and Blockchain Analytics",
+    "text": "FinTech, Crypto, and Blockchain Analytics\nDigital financial platforms create new forms of transaction data and new managerial and regulatory questions. I study peer-to-peer payment networks, illicit activity on fintech platforms, and diffusion dynamics in crypto-token ecosystems.\nRelevant work:\n\nSocial Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets\nModeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage"
+  },
+  {
+    "objectID": "research.html#causal-inference-and-machine-learning-on-networks",
+    "href": "research.html#causal-inference-and-machine-learning-on-networks",
+    "title": "Research",
+    "section": "Causal Inference and Machine Learning on Networks",
+    "text": "Causal Inference and Machine Learning on Networks\nNetworked data complicate causal inference because treatment, outcomes, and selection can all be shaped by peer effects and network structure. My current work studies how graph neural networks can help adjust for high-dimensional network confounding.\nRelevant work:\n\nGraph Neural Networks for Causal Inference Under Network Confounding"
+  },
+  {
+    "objectID": "research.html#retail-analytics-and-recommendation-systems",
+    "href": "research.html#retail-analytics-and-recommendation-systems",
+    "title": "Research",
+    "section": "Retail Analytics and Recommendation Systems",
+    "text": "Retail Analytics and Recommendation Systems\nI am also interested in ranking, attention allocation, and inventory dynamics in recommendation environments, especially where platform decisions interact with operational constraints.\nRelevant work:\n\nThe Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Program: Core MBA\nTopics: Process analysis, capacity, queues, inventory, supply-demand matching, bottlenecks, quality, and operational tradeoffs.\nThis core MBA course teaches students how to analyze and improve the systems that produce and deliver goods and services. The course emphasizes operational decision-making under constraints, with applications to service operations, manufacturing, platforms, and supply chains.\n\n\n\nProgram: MBA\nTopics: Customer segmentation, predictive modeling, customer lifetime value, acquisition, retention, churn, personalization, CRM strategy, and AI agents.\nThis course teaches students how to use customer-level data to make better marketing and growth decisions. The course connects statistical modeling, machine learning, and AI-enabled customer systems to managerial questions about which customers to acquire, retain, target, personalize for, and prioritize.\n\n\n\nProgram: Master of Business Analytics, San Francisco\nTopics: Apache Spark, Kafka, machine learning, deep learning, graph neural networks, large language models, and generative AI.\nThis course teaches students how to work with large-scale data systems and modern AI methods in business analytics. The course combines scalable data engineering with machine learning applications in text, networks, prediction, and generative modeling."
+  },
+  {
+    "objectID": "teaching.html#uc-davis-graduate-school-of-management",
+    "href": "teaching.html#uc-davis-graduate-school-of-management",
+    "title": "Teaching",
+    "section": "",
+    "text": "Program: Core MBA\nTopics: Process analysis, capacity, queues, inventory, supply-demand matching, bottlenecks, quality, and operational tradeoffs.\nThis core MBA course teaches students how to analyze and improve the systems that produce and deliver goods and services. The course emphasizes operational decision-making under constraints, with applications to service operations, manufacturing, platforms, and supply chains.\n\n\n\nProgram: MBA\nTopics: Customer segmentation, predictive modeling, customer lifetime value, acquisition, retention, churn, personalization, CRM strategy, and AI agents.\nThis course teaches students how to use customer-level data to make better marketing and growth decisions. The course connects statistical modeling, machine learning, and AI-enabled customer systems to managerial questions about which customers to acquire, retain, target, personalize for, and prioritize.\n\n\n\nProgram: Master of Business Analytics, San Francisco\nTopics: Apache Spark, Kafka, machine learning, deep learning, graph neural networks, large language models, and generative AI.\nThis course teaches students how to work with large-scale data systems and modern AI methods in business analytics. The course combines scalable data engineering with machine learning applications in text, networks, prediction, and generative modeling."
+  },
+  {
+    "objectID": "teaching.html#nvidia-deep-learning-institute",
+    "href": "teaching.html#nvidia-deep-learning-institute",
+    "title": "Teaching",
+    "section": "NVIDIA Deep Learning Institute",
+    "text": "NVIDIA Deep Learning Institute\nCertified Instructor"
+  },
+  {
+    "objectID": "teaching.html#previous-teaching",
+    "href": "teaching.html#previous-teaching",
+    "title": "Teaching",
+    "section": "Previous Teaching",
+    "text": "Previous Teaching\n\nKellogg School of Management, Northwestern University\nTeaching assistant for Executive MBA and MBA courses:\n\nMarketing Analytics: Leading with Big Data\nRetail Analytics: Pricing and Promotion\nDecision Modeling and Optimization in Excel\nThe General Rookie Manager\nAnalytical Decision Modeling in Excel\nApplied Advanced Analytics\n\n\n\nGeorgia Institute of Technology\nTeaching assistant for:\n\nStatistics and Applications\nStochastic Manufacturing and Service Systems"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Pantelis Loupos\nAssistant Professor of Marketing and Business Analytics\nGraduate School of Management\nUniversity of California, Davis\nEmail: ploupos [at] ucdavis [dot] edu\nWebsite: https://loupos.org"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\nGoogle Scholar\nLinkedIn"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Hemant Bhargava et al. Management Science, 2026.\nExamines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.\n\n\n\nJörn Boehnke, Pantelis Loupos, and Ying Gu. Annals of Operations Research, 2023.\nArticle | DOI\nUses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.\nMedia coverage: UC Davis News, Tech Times, Tech Xplore, Mirage News, EurekAlert!\n\n\n\nPantelis Loupos, Yvette Peng, Sute Li, and Hao Hao. Marketing Letters, 2023.\nArticle | DOI\nShows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.\nMedia coverage: UC Davis, Science X / Phys.org, Mirage News, EurekAlert!, Daily Mail\n\n\n\nHemant K. Bhargava, Olivier Rubel, Elizabeth J. Altman, Ramnik Arora, Jörn Boehnke, Kaitlin Daniels, Timothy Derdenger, Bryan Kirschner, Darin LaFramboise, Pantelis Loupos, Geoffrey Parker, and Adithya Pattabhiramaiah. Marketing Letters, 2020.\nSSRN | DOI\nDevelops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.\n\n\n\nPantelis Loupos and Alexandros Nathan. Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.\narXiv | DOI\nDocuments how Venmo’s peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties."
+  },
+  {
+    "objectID": "publications.html#published-forthcoming",
+    "href": "publications.html#published-forthcoming",
+    "title": "Publications",
+    "section": "",
+    "text": "Hemant Bhargava et al. Management Science, 2026.\nExamines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.\n\n\n\nJörn Boehnke, Pantelis Loupos, and Ying Gu. Annals of Operations Research, 2023.\nArticle | DOI\nUses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.\nMedia coverage: UC Davis News, Tech Times, Tech Xplore, Mirage News, EurekAlert!\n\n\n\nPantelis Loupos, Yvette Peng, Sute Li, and Hao Hao. Marketing Letters, 2023.\nArticle | DOI\nShows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.\nMedia coverage: UC Davis, Science X / Phys.org, Mirage News, EurekAlert!, Daily Mail\n\n\n\nHemant K. Bhargava, Olivier Rubel, Elizabeth J. Altman, Ramnik Arora, Jörn Boehnke, Kaitlin Daniels, Timothy Derdenger, Bryan Kirschner, Darin LaFramboise, Pantelis Loupos, Geoffrey Parker, and Adithya Pattabhiramaiah. Marketing Letters, 2020.\nSSRN | DOI\nDevelops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.\n\n\n\nPantelis Loupos and Alexandros Nathan. Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.\narXiv | DOI\nDocuments how Venmo’s peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties."
+  },
+  {
+    "objectID": "publications.html#revise-and-resubmit",
+    "href": "publications.html#revise-and-resubmit",
+    "title": "Publications",
+    "section": "Revise and Resubmit",
+    "text": "Revise and Resubmit\n\nGraph Neural Networks for Causal Inference Under Network Confounding\nMichael Leung and Pantelis Loupos. Revise and resubmit at The Review of Economic Studies.\narXiv\nDevelops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.\n\n\nNetwork-Based Decision Support for Cold-Start User Valuation in P2P Platforms: The Role of Initial Community Structure\nPantelis Loupos and Moran Cerf. Revise and resubmit, Decision Support Systems.\nSSRN\nShows how a new user’s initial network position can predict future activity and customer value before meaningful behavioral history exists."
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nThe Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics\nPantelis Loupos and Can Ürgün. To be submitted to Management Science.\nDevelops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.\n\n\nModeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage\nPantelis Loupos and Sriram Venkatesh. Working paper.\nDevelops a diffusion model for engagement-driven digital markets, showing how the interaction between cumulative adoption and active participation determines whether ecosystems scale, stall, or recover."
+  }
+]
