@@ -36,6 +36,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: includes/clean-url.html
     toc: true
     toc-location: right
     smooth-scroll: true
