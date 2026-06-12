@@ -44,7 +44,7 @@ Documents how Venmo's peer-to-peer financial network forms and evolves, highligh
 
 ## Revise and Resubmit
 
-### Graph Neural Networks for Causal Inference Under Network Confounding
+### [Graph Neural Networks for Causal Inference Under Network Confounding](Papers/Graph%20Neural%20Networks%20for%20Causal%20Inference%20Under%20Network%20Confounding.pdf){target="_blank"}
 
 **Michael Leung and Pantelis Loupos.** Revise and resubmit at *The Review of Economic Studies*.  
 [arXiv](https://arxiv.org/abs/2211.07823)
@@ -60,7 +60,7 @@ Shows how a new user's initial network position can predict future activity and 
 
 ## Working Papers
 
-### The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics
+### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics_ManagementScience.pdf){target="_blank"}
 
 **Pantelis Loupos and Can Ürgün.** To be submitted to *Management Science*.  
 
