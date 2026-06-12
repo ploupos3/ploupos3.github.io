@@ -66,7 +66,7 @@ Shows how a new user's initial network position can predict future activity and 
 
 Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
 
-### Modeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage
+### Beyond Adoption: Active Participation and Recovery in Digital Market Diffusion
 
 **Pantelis Loupos and Sriram Venkatesh.** Working paper.  
 

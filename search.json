@@ -179,6 +179,6 @@
     "href": "publications.html#working-papers",
     "title": "Publications",
     "section": "Working Papers",
-    "text": "Working Papers\n\nThe Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics\nPantelis Loupos and Can Ürgün. To be submitted to Management Science.\nDevelops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.\n\n\nModeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage\nPantelis Loupos and Sriram Venkatesh. Working paper.\nDevelops a diffusion model for engagement-driven digital markets, showing how the interaction between cumulative adoption and active participation determines whether ecosystems scale, stall, or recover."
+    "text": "Working Papers\n\nThe Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics\nPantelis Loupos and Can Ürgün. To be submitted to Management Science.\nDevelops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.\n\n\nBeyond Adoption: Active Participation and Recovery in Digital Market Diffusion\nPantelis Loupos and Sriram Venkatesh. Working paper.\nDevelops a diffusion model for engagement-driven digital markets, showing how the interaction between cumulative adoption and active participation determines whether ecosystems scale, stall, or recover."
   }
 ]
