@@ -30,7 +30,7 @@ Digital financial platforms create new forms of transaction data and new manager
 Relevant work:
 
 - [Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets](publications.qmd#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets)
-- [Modeling the Diffusion Dynamics of Crypto Tokens: A Dual-Process Approach to Adoption and Usage](publications.qmd#modeling-the-diffusion-dynamics-of-crypto-tokens-a-dual-process-approach-to-adoption-and-usage)
+- [Beyond Adoption: Active Participation and Recovery in Digital Market Diffusion](publications.qmd#beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion)
 
 ## Causal Inference and Machine Learning on Networks
 
