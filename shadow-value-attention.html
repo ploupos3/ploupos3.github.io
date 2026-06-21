@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Working paper by Pantelis Loupos and Can Urgun on inventory-aware recommendation ranking and the shadow value of scarce inventory.">
 
-<title>Publications – Pantelis Loupos</title>
+<title>The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics – Pantelis Loupos</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -71,12 +72,18 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<link rel="canonical" href="https://www.loupos.org/shadow-value-attention.html">
+<meta name="citation_title" content="The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics">
+<meta name="citation_author" content="Loupos, Pantelis">
+<meta name="citation_author" content="Ürgün, Can">
+<meta name="citation_publication_date" content="2026">
+<meta name="citation_pdf_url" content="https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf">
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -102,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -128,40 +135,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#published-forthcoming" id="toc-published-forthcoming" class="nav-link active" data-scroll-target="#published-forthcoming">Published / Forthcoming</a>
-  <ul class="collapse">
-  <li><a href="#fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship" id="toc-fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship" class="nav-link" data-scroll-target="#fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship">Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship</a></li>
-  <li><a href="#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" id="toc-social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" class="nav-link" data-scroll-target="#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets">Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets</a></li>
-  <li><a href="#what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry" id="toc-what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry" class="nav-link" data-scroll-target="#what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry">What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry</a></li>
-  <li><a href="#platform-data-strategy" id="toc-platform-data-strategy" class="nav-link" data-scroll-target="#platform-data-strategy">Platform Data Strategy</a></li>
-  <li><a href="#the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network" id="toc-the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network" class="nav-link" data-scroll-target="#the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network">The Structure and Evolution of an Offline Peer-to-Peer Financial Network</a></li>
-  </ul></li>
-  <li><a href="#revise-and-resubmit" id="toc-revise-and-resubmit" class="nav-link" data-scroll-target="#revise-and-resubmit">Revise and Resubmit</a>
-  <ul class="collapse">
-  <li><a href="#graph-neural-networks-for-causal-inference-under-network-confounding" id="toc-graph-neural-networks-for-causal-inference-under-network-confounding" class="nav-link" data-scroll-target="#graph-neural-networks-for-causal-inference-under-network-confounding">Graph Neural Networks for Causal Inference Under Network Confounding</a></li>
-  <li><a href="#network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure" id="toc-network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure" class="nav-link" data-scroll-target="#network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure">Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms: The Role of Initial Community Structure</a></li>
-  </ul></li>
-  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a>
-  <ul class="collapse">
-  <li><a href="#the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics" id="toc-the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics" class="nav-link" data-scroll-target="#the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics">The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics</a></li>
-  <li><a href="#beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion" id="toc-beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion" class="nav-link" data-scroll-target="#beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion">Beyond Adoption: Active Participation and Recovery in Digital Market Diffusion</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics</h1>
 </div>
 
+<div>
+  <div class="description">
+    Working paper by Pantelis Loupos and Can Urgun on inventory-aware recommendation ranking and the shadow value of scarce inventory.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -176,70 +163,43 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="published-forthcoming" class="level2">
-<h2 class="anchored" data-anchor-id="published-forthcoming">Published / Forthcoming</h2>
-<section id="fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship" class="level3">
-<h3 class="anchored" data-anchor-id="fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship">Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship</h3>
-<p><strong>Hemant Bhargava et al.</strong> <em>Management Science</em>, 2026.</p>
-<p>Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics",
+  "headline": "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Pantelis Loupos",
+      "url": "https://www.loupos.org"
+    },
+    {
+      "@type": "Person",
+      "name": "Can Ürgün"
+    }
+  ],
+  "dateModified": "2026-06-21",
+  "url": "https://www.loupos.org/shadow-value-attention.html",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf",
+    "encodingFormat": "application/pdf"
+  }
+}
+</script>
+<p><strong>Pantelis Loupos and Can Ürgün.</strong> Working paper.</p>
+<p><a href="Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf" class="btn btn-primary" target="_blank">Download PDF</a></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>This paper develops a multi-armed bandit framework for inventory-aware recommendation ranking. The model allocates exposure based on both demand potential and the shadow value of scarce inventory, showing how recommendation systems should account for inventory dynamics when deciding what to rank and when.</p>
 </section>
-<section id="social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" class="level3">
-<h3 class="anchored" data-anchor-id="social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets">Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets</h3>
-<p><strong>Jörn Boehnke, Pantelis Loupos, and Ying Gu.</strong> <em>Annals of Operations Research</em>, 2023.<br>
-<a href="https://link.springer.com/article/10.1007/s10479-023-05617-7">Article</a> | <a href="https://doi.org/10.1007/s10479-023-05617-7">DOI</a></p>
-<p>Uses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.</p>
-<p>Media coverage: <a href="https://www.ucdavis.edu/news/digital-payment-platforms-can-easily-be-misused-drug-dealing-researchers-suggest">UC Davis News</a>, <a href="https://www.techtimes.com/articles/298958/20231122/digital-payment-apps-easily-misused-drug-dealing-new-study-finds.htm">Tech Times</a>, <a href="https://techxplore.com/news/2023-11-digital-payment-platforms-easily-misused.html">Tech Xplore</a>, <a href="https://www.miragenews.com/digital-payment-platforms-risk-misuse-in-drug-1128421/">Mirage News</a>, <a href="https://www.eurekalert.org/news-releases/1008815">EurekAlert!</a></p>
-</section>
-<section id="what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry" class="level3">
-<h3 class="anchored" data-anchor-id="what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry">What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry</h3>
-<p><strong>Pantelis Loupos, Yvette Peng, Sute Li, and Hao Hao.</strong> <em>Marketing Letters</em>, 2023.<br>
-<a href="https://link.springer.com/article/10.1007/s11002-023-09665-8">Article</a> | <a href="https://doi.org/10.1007/s11002-023-09665-8">DOI</a></p>
-<p>Shows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.</p>
-<p>Media coverage: <a href="https://www.ucdavis.edu/curiosity/blog/can-movie-reviews-predict-box-office-success">UC Davis</a>, <a href="https://phys.org/news/2023-06-movie-office-success.html">Science X / Phys.org</a>, <a href="https://www.miragenews.com/research-can-movie-reviews-predict-box-office-1019593/">Mirage News</a>, <a href="https://www.eurekalert.org/news-releases/991379">EurekAlert!</a>, <a href="https://www.dailymail.co.uk/sciencetech/article-12161471/Indiana-Jones-5-gets-slammed-reviews-new-study-says-poor-scores-mean-big-box-office.html">Daily Mail</a></p>
-</section>
-<section id="platform-data-strategy" class="level3">
-<h3 class="anchored" data-anchor-id="platform-data-strategy">Platform Data Strategy</h3>
-<p><strong>Hemant K. Bhargava, Olivier Rubel, Elizabeth J. Altman, Ramnik Arora, Jörn Boehnke, Kaitlin Daniels, Timothy Derdenger, Bryan Kirschner, Darin LaFramboise, Pantelis Loupos, Geoffrey Parker, and Adithya Pattabhiramaiah.</strong> <em>Marketing Letters</em>, 2020.<br>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765056">SSRN</a> | <a href="https://doi.org/10.1007/s11002-020-09539-3">DOI</a></p>
-<p>Develops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.</p>
-</section>
-<section id="the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network" class="level3">
-<h3 class="anchored" data-anchor-id="the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network">The Structure and Evolution of an Offline Peer-to-Peer Financial Network</h3>
-<p><strong>Pantelis Loupos and Alexandros Nathan.</strong> Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.<br>
-<a href="https://arxiv.org/abs/1806.06328">arXiv</a> | <a href="https://doi.org/10.1007/978-3-030-14459-3_9">DOI</a></p>
-<p>Documents how Venmo’s peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties.</p>
-</section>
-</section>
-<section id="revise-and-resubmit" class="level2">
-<h2 class="anchored" data-anchor-id="revise-and-resubmit">Revise and Resubmit</h2>
-<section id="graph-neural-networks-for-causal-inference-under-network-confounding" class="level3">
-<h3 class="anchored" data-anchor-id="graph-neural-networks-for-causal-inference-under-network-confounding"><a href="Papers/Graph Neural Networks for Causal Inference Under Network Confounding.pdf" target="_blank">Graph Neural Networks for Causal Inference Under Network Confounding</a></h3>
-<p><strong>Michael Leung and Pantelis Loupos.</strong> Revise and resubmit at <em>The Review of Economic Studies</em>.<br>
-<a href="https://arxiv.org/abs/2211.07823">arXiv</a></p>
-<p>Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.</p>
-</section>
-<section id="network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure" class="level3">
-<h3 class="anchored" data-anchor-id="network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure">Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms: The Role of Initial Community Structure</h3>
-<p><strong>Pantelis Loupos and Moran Cerf.</strong> Revise and resubmit, <em>Decision Support Systems</em>.<br>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978">SSRN</a></p>
-<p>Shows how a new user’s initial network position can predict future activity and customer value before meaningful behavioral history exists.</p>
-</section>
-</section>
-<section id="working-papers" class="level2">
-<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
-<section id="the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics" class="level3">
-<h3 class="anchored" data-anchor-id="the-shadow-value-of-attention-recommendation-ranking-with-inventory-dynamics"><a href="./shadow-value-attention.html">The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics</a></h3>
-<p><strong>Pantelis Loupos and Can Ürgün.</strong> To be submitted to <em>Management Science</em>.<br>
-<a href="Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf" target="_blank">PDF</a></p>
-<p>Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.</p>
-</section>
-<section id="beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion" class="level3">
-<h3 class="anchored" data-anchor-id="beyond-adoption-active-participation-and-recovery-in-digital-market-diffusion">Beyond Adoption: Active Participation and Recovery in Digital Market Diffusion</h3>
-<p><strong>Pantelis Loupos and Sriram Venkatesh.</strong> Working paper.</p>
-<p>Develops a diffusion model for engagement-driven digital markets, showing how the interaction between cumulative adoption and active participation determines whether ecosystems scale, stall, or recover.</p>
+<section id="research-area" class="level2">
+<h2 class="anchored" data-anchor-id="research-area">Research Area</h2>
+<p>Retail analytics, recommendation systems, attention allocation, and inventory dynamics.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

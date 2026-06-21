@@ -1,0 +1,54 @@
+---
+title: "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics"
+description: "Working paper by Pantelis Loupos and Can Urgun on inventory-aware recommendation ranking and the shadow value of scarce inventory."
+toc: false
+format:
+  html:
+    include-in-header:
+      text: |
+        <link rel="canonical" href="https://www.loupos.org/shadow-value-attention.html">
+        <meta name="citation_title" content="The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics">
+        <meta name="citation_author" content="Loupos, Pantelis">
+        <meta name="citation_author" content="Ürgün, Can">
+        <meta name="citation_publication_date" content="2026">
+        <meta name="citation_pdf_url" content="https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf">
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics",
+  "headline": "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics",
+  "author": [
+    {
+      "@type": "Person",
+      "name": "Pantelis Loupos",
+      "url": "https://www.loupos.org"
+    },
+    {
+      "@type": "Person",
+      "name": "Can Ürgün"
+    }
+  ],
+  "dateModified": "2026-06-21",
+  "url": "https://www.loupos.org/shadow-value-attention.html",
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf",
+    "encodingFormat": "application/pdf"
+  }
+}
+</script>
+
+**Pantelis Loupos and Can Ürgün.** Working paper.
+
+[Download PDF](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf){.btn .btn-primary target="_blank"}
+
+## Summary
+
+This paper develops a multi-armed bandit framework for inventory-aware recommendation ranking. The model allocates exposure based on both demand potential and the shadow value of scarce inventory, showing how recommendation systems should account for inventory dynamics when deciding what to rank and when.
+
+## Research Area
+
+Retail analytics, recommendation systems, attention allocation, and inventory dynamics.

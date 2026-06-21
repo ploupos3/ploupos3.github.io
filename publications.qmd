@@ -60,9 +60,10 @@ Shows how a new user's initial network position can predict future activity and 
 
 ## Working Papers
 
-### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics_ManagementScience.pdf){target="_blank"}
+### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](shadow-value-attention.qmd)
 
 **Pantelis Loupos and Can Ürgün.** To be submitted to *Management Science*.  
+[PDF](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf){target="_blank"}
 
 Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
 
