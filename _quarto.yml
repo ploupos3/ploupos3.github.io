@@ -37,6 +37,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: includes/google-verification.html
     include-after-body: includes/clean-url.html
     toc: true
     toc-location: right
