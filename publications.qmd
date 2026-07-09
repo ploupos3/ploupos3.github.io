@@ -7,6 +7,7 @@ title: "Publications"
 ### Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship
 
 **Hemant Bhargava et al.** *Management Science*, 2026.  
+[DOI](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)
 
 Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
 
@@ -30,7 +31,7 @@ Media coverage: [UC Davis](https://www.ucdavis.edu/curiosity/blog/can-movie-revi
 
 ### Platform Data Strategy
 
-**Hemant K. Bhargava, Olivier Rubel, Elizabeth J. Altman, Ramnik Arora, Jörn Boehnke, Kaitlin Daniels, Timothy Derdenger, Bryan Kirschner, Darin LaFramboise, Pantelis Loupos, Geoffrey Parker, and Adithya Pattabhiramaiah.** *Marketing Letters*, 2020.  
+**Hemant Bhargava et al.** *Marketing Letters*, 2020.  
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765056) | [DOI](https://doi.org/10.1007/s11002-020-09539-3)
 
 Develops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.
@@ -51,7 +52,7 @@ Documents how Venmo's peer-to-peer financial network forms and evolves, highligh
 
 Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.
 
-### Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms: The Role of Initial Community Structure
+### Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms: The Role of Initial Community Structure Decision Support Systems
 
 **Pantelis Loupos and Moran Cerf.** Revise and resubmit, *Decision Support Systems*.  
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978)
@@ -62,8 +63,8 @@ Shows how a new user's initial network position can predict future activity and 
 
 ### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](shadow-value-attention.qmd)
 
-**Pantelis Loupos and Can Ürgün.** To be submitted to *Management Science*.  
-[PDF](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf){target="_blank"}
+**Pantelis Loupos and Can Ürgün.** Under review at *Management Science*.  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198)
 
 Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
 

@@ -21,7 +21,7 @@ Peer-to-peer digital platforms create rich networks in which transactions, socia
 Relevant work:
 
 - [The Structure and Evolution of an Offline Peer-to-Peer Financial Network](publications.qmd#the-structure-and-evolution-of-an-offline-peer-to-peer-financial-network)
-- [Network-Based Decision Support for Cold-Start User Valuation in P2P Platforms](publications.qmd#network-based-decision-support-for-cold-start-user-valuation-in-p2p-platforms-the-role-of-initial-community-structure)
+- [Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms](publications.qmd#network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems)
 
 ## FinTech, Crypto, and Blockchain Analytics
 

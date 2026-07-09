@@ -1,6 +1,6 @@
 ---
 title: "The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics"
-description: "Working paper by Pantelis Loupos and Can Urgun on inventory-aware recommendation ranking and the shadow value of scarce inventory."
+description: "Working paper by Pantelis Loupos and Can Urgun on inventory-aware recommendation ranking and the shadow value of scarce inventory. Under review at Management Science."
 toc: false
 format:
   html:
@@ -11,7 +11,6 @@ format:
         <meta name="citation_author" content="Loupos, Pantelis">
         <meta name="citation_author" content="Ürgün, Can">
         <meta name="citation_publication_date" content="2026">
-        <meta name="citation_pdf_url" content="https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf">
 ---
 
 <script type="application/ld+json">
@@ -31,19 +30,15 @@ format:
       "name": "Can Ürgün"
     }
   ],
-  "dateModified": "2026-06-21",
+  "dateModified": "2026-07-09",
   "url": "https://www.loupos.org/shadow-value-attention.html",
-  "encoding": {
-    "@type": "MediaObject",
-    "contentUrl": "https://www.loupos.org/Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf",
-    "encodingFormat": "application/pdf"
-  }
+  "sameAs": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198"
 }
 </script>
 
-**Pantelis Loupos and Can Ürgün.** Working paper.
+**Pantelis Loupos and Can Ürgün.** Under review at *Management Science*.
 
-[Download PDF](Papers/The_Shadow_Value_of_Attention__Recommendation_Ranking_with_Inventory_Dynamics.pdf){.btn .btn-primary target="_blank"}
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198){.btn .btn-primary target="_blank"}
 
 ## Summary
 
