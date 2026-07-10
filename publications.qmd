@@ -7,14 +7,14 @@ title: "Publications"
 ### Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship
 
 **Hemant Bhargava et al.** *Management Science*, 2026.  
-[DOI](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)
+[Article](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)
 
 Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
 
 ### Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets
 
 **Jörn Boehnke, Pantelis Loupos, and Ying Gu.** *Annals of Operations Research*, 2023.  
-[Article](https://link.springer.com/article/10.1007/s10479-023-05617-7) | [DOI](https://doi.org/10.1007/s10479-023-05617-7)
+[Article](https://link.springer.com/article/10.1007/s10479-023-05617-7)
 
 Uses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.
 
@@ -23,7 +23,7 @@ Media coverage: [UC Davis News](https://www.ucdavis.edu/news/digital-payment-pla
 ### What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry
 
 **Pantelis Loupos, Yvette Peng, Sute Li, and Hao Hao.** *Marketing Letters*, 2023.  
-[Article](https://link.springer.com/article/10.1007/s11002-023-09665-8) | [DOI](https://doi.org/10.1007/s11002-023-09665-8)
+[Article](https://link.springer.com/article/10.1007/s11002-023-09665-8)
 
 Shows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.
 
@@ -32,39 +32,39 @@ Media coverage: [UC Davis](https://www.ucdavis.edu/curiosity/blog/can-movie-revi
 ### Platform Data Strategy
 
 **Hemant Bhargava et al.** *Marketing Letters*, 2020.  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765056) | [DOI](https://doi.org/10.1007/s11002-020-09539-3)
+[Article](https://doi.org/10.1007/s11002-020-09539-3)
 
 Develops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.
 
 ### The Structure and Evolution of an Offline Peer-to-Peer Financial Network
 
 **Pantelis Loupos and Alexandros Nathan.** Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.  
-[arXiv](https://arxiv.org/abs/1806.06328) | [DOI](https://doi.org/10.1007/978-3-030-14459-3_9)
+[Article](https://doi.org/10.1007/978-3-030-14459-3_9)
 
 Documents how Venmo's peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties.
 
 ## Revise and Resubmit
 
-### [Graph Neural Networks for Causal Inference Under Network Confounding](Papers/Graph%20Neural%20Networks%20for%20Causal%20Inference%20Under%20Network%20Confounding.pdf){target="_blank"}
+### Graph Neural Networks for Causal Inference Under Network Confounding
 
 **Michael Leung and Pantelis Loupos.** Revise and resubmit at *The Review of Economic Studies*.  
-[arXiv](https://arxiv.org/abs/2211.07823)
+[Article](https://arxiv.org/abs/2211.07823)
 
 Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.
 
 ### Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms: The Role of Initial Community Structure Decision Support Systems
 
 **Pantelis Loupos and Moran Cerf.** Revise and resubmit, *Decision Support Systems*.  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978)
+[Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978)
 
 Shows how a new user's initial network position can predict future activity and customer value before meaningful behavioral history exists.
 
 ## Working Papers
 
-### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](shadow-value-attention.qmd)
+### The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics
 
 **Pantelis Loupos and Can Ürgün.** Under review at *Management Science*.  
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198)
+[Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198)
 
 Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
 
