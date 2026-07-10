@@ -50,7 +50,7 @@ I study how firms should use platform data to make better decisions about growth
 
 ## Selected Publications and Current Papers
 
-- **Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship.** Joint work with Hemant Bhargava et al. *Management Science*, 2026.
+- **[Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship.](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)** Joint work with Hemant Bhargava et al. *Management Science*, 2026.
 - **Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets.** Joint work with Jörn Boehnke and Ying Gu. *Annals of Operations Research*, 2023. [Article](https://link.springer.com/article/10.1007/s10479-023-05617-7)
 - **What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry.** Joint work with Yvette Peng, Sute Li, and Hao Hao. *Marketing Letters*, 2023. [Article](https://link.springer.com/article/10.1007/s11002-023-09665-8)
 - **Graph Neural Networks for Causal Inference Under Network Confounding.** Joint work with Michael Leung. Revise and resubmit at *The Review of Economic Studies*. [arXiv](https://arxiv.org/abs/2211.07823)
