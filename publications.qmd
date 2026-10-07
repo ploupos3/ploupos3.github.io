@@ -13,7 +13,7 @@ Examines how AI can support peer-review workflows as submission volume grows and
 
 ### Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information
 
-**Pantelis Loupos and Moran Cerf.** *Decision Support Systems*, forthcoming.  
+**Pantelis Loupos and Moran Cerf.** *Decision Support Systems*, 2026.  
 [Article](https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697)
 
 Shows how the community revealed by a new user's first transaction can identify future high-engagement users before behavioral histories develop, improving cold-start prioritization beyond user- and counterparty-level information.
