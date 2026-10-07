@@ -1,0 +1,9 @@
+body.publications-page main h3,
+body.publications-page main h3 > a,
+body.publications-page main h3 > a:visited,
+body.publications-page main h3 > a:hover,
+body.publications-page main h3 > a:focus {
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+}

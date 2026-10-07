@@ -2,6 +2,11 @@
 title: "Publications"
 anchor-sections: false
 body-classes: publications-page
+format:
+  html:
+    css:
+      - styles.css
+      - publication-titles.css
 ---
 
 ## Published / Forthcoming
