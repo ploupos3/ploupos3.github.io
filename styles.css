@@ -107,6 +107,17 @@ h3 {
   margin-top: 1.6rem;
 }
 
+.publications-page h3 > a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.publications-page h3 > a:hover,
+.publications-page h3 > a:focus-visible {
+  text-decoration: underline;
+}
+
 .page-footer {
   border-top: 1px solid var(--site-line);
 }

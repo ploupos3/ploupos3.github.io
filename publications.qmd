@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 anchor-sections: false
+body-classes: publications-page
 ---
 
 ## Published / Forthcoming
