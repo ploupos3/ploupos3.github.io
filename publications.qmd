@@ -1,70 +1,63 @@
 ---
 title: "Publications"
+anchor-sections: false
 ---
 
 ## Published / Forthcoming
 
-### Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship
+### [Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)
 
 **Hemant Bhargava et al.** *Management Science*, 2026.  
-[Article](https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184)
 
 Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
 
-### Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information
+### [Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information](https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697)
 
 **Pantelis Loupos and Moran Cerf.** *Decision Support Systems*, 2026.  
-[Article](https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697)
 
 Shows how the community revealed by a new user's first transaction can identify future high-engagement users before behavioral histories develop, improving cold-start prioritization beyond user- and counterparty-level information.
 
-### Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets
+### [Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets](https://link.springer.com/article/10.1007/s10479-023-05617-7)
 
 **Jörn Boehnke, Pantelis Loupos, and Ying Gu.** *Annals of Operations Research*, 2023.  
-[Article](https://link.springer.com/article/10.1007/s10479-023-05617-7)
 
 Uses Venmo data, text analytics, machine learning, and network analysis to detect illicit activity and characterize the financial networks behind digital drug dealing.
 
 Media coverage: [UC Davis News](https://www.ucdavis.edu/news/digital-payment-platforms-can-easily-be-misused-drug-dealing-researchers-suggest), [Tech Times](https://www.techtimes.com/articles/298958/20231122/digital-payment-apps-easily-misused-drug-dealing-new-study-finds.htm), [Tech Xplore](https://techxplore.com/news/2023-11-digital-payment-platforms-easily-misused.html), [Mirage News](https://www.miragenews.com/digital-payment-platforms-risk-misuse-in-drug-1128421/), [EurekAlert!](https://www.eurekalert.org/news-releases/1008815)
 
-### What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry
+### [What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry](https://link.springer.com/article/10.1007/s11002-023-09665-8)
 
 **Pantelis Loupos, Yvette Peng, Sute Li, and Hao Hao.** *Marketing Letters*, 2023.  
-[Article](https://link.springer.com/article/10.1007/s11002-023-09665-8)
 
 Shows that some reviewers systematically act as harbingers of failure: their positive pre-release reviews predict weaker opening-weekend box office performance.
 
 Media coverage: [UC Davis](https://www.ucdavis.edu/curiosity/blog/can-movie-reviews-predict-box-office-success), [Science X / Phys.org](https://phys.org/news/2023-06-movie-office-success.html), [Mirage News](https://www.miragenews.com/research-can-movie-reviews-predict-box-office-1019593/), [EurekAlert!](https://www.eurekalert.org/news-releases/991379), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-12161471/Indiana-Jones-5-gets-slammed-reviews-new-study-says-poor-scores-mean-big-box-office.html)
 
-### Platform Data Strategy
+### [Platform Data Strategy](https://doi.org/10.1007/s11002-020-09539-3)
 
 **Hemant Bhargava et al.** *Marketing Letters*, 2020.  
-[Article](https://doi.org/10.1007/s11002-020-09539-3)
 
 Develops a strategic framework for how digital platforms collect, govern, share, and monetize data across users, firms, and ecosystem partners.
 
-### The Structure and Evolution of an Offline Peer-to-Peer Financial Network
+### [The Structure and Evolution of an Offline Peer-to-Peer Financial Network](https://doi.org/10.1007/978-3-030-14459-3_9)
 
 **Pantelis Loupos and Alexandros Nathan.** Proceedings of the 10th Conference on Complex Networks, CompleNet 2019.  
-[Article](https://doi.org/10.1007/978-3-030-14459-3_9)
 
 Documents how Venmo's peer-to-peer financial network forms and evolves, highlighting its connectivity, clustering, degree structure, and small-world properties.
 
 ## Revise and Resubmit
 
-### Graph Neural Networks for Causal Inference Under Network Confounding
+### [Graph Neural Networks for Causal Inference Under Network Confounding](https://arxiv.org/abs/2211.07823)
 
 **Michael Leung and Pantelis Loupos.** Revise and resubmit at *The Review of Economic Studies*.  
-[Article](https://arxiv.org/abs/2211.07823)
 
 Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.
 
 ## Working Papers
 
-### The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics
+### [The Shadow Value of Attention: Recommendation Ranking with Inventory Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198)
 
 **Pantelis Loupos and Can Ürgün.** Under review at *Management Science*.  
-[Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6928198)
 
 Develops a multi-armed bandit framework for inventory-aware recommendation ranking, where exposure is allocated based on both demand potential and the shadow value of scarce inventory.
 
