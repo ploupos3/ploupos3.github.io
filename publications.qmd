@@ -11,6 +11,13 @@ title: "Publications"
 
 Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
 
+### Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information
+
+**Pantelis Loupos and Moran Cerf.** *Decision Support Systems*, forthcoming.  
+[Article](https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697)
+
+Shows how the community revealed by a new user's first transaction can identify future high-engagement users before behavioral histories develop, improving cold-start prioritization beyond user- and counterparty-level information.
+
 ### Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets
 
 **Jörn Boehnke, Pantelis Loupos, and Ying Gu.** *Annals of Operations Research*, 2023.  
@@ -51,13 +58,6 @@ Documents how Venmo's peer-to-peer financial network forms and evolves, highligh
 [Article](https://arxiv.org/abs/2211.07823)
 
 Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.
-
-### Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms: The Role of Initial Community Structure Decision Support Systems
-
-**Pantelis Loupos and Moran Cerf.** Revise and resubmit, *Decision Support Systems*.  
-[Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978)
-
-Shows how a new user's initial network position can predict future activity and customer value before meaningful behavioral history exists.
 
 ## Working Papers
 

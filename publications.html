@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dc87cf83dc6649ed6b6fae60f4c3b18f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f43d603d34fcebdde7f735697862da7d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -137,6 +140,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#published-forthcoming" id="toc-published-forthcoming" class="nav-link active" data-scroll-target="#published-forthcoming">Published / Forthcoming</a>
   <ul class="collapse">
   <li><a href="#fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship" id="toc-fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship" class="nav-link" data-scroll-target="#fighting-fire-with-fire-infusing-ai-into-peer-review-to-sustain-quality-scholarship">Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship</a></li>
+  <li><a href="#network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-value-of-entry-community-information" id="toc-network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-value-of-entry-community-information" class="nav-link" data-scroll-target="#network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-value-of-entry-community-information">Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information</a></li>
   <li><a href="#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" id="toc-social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" class="nav-link" data-scroll-target="#social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets">Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets</a></li>
   <li><a href="#what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry" id="toc-what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry" class="nav-link" data-scroll-target="#what-reviews-foretell-about-opening-weekend-box-office-revenue-the-harbinger-of-failure-effect-in-the-movie-industry">What Reviews Foretell about Opening Weekend Box Office Revenue: The Harbinger of Failure Effect in the Movie Industry</a></li>
   <li><a href="#platform-data-strategy" id="toc-platform-data-strategy" class="nav-link" data-scroll-target="#platform-data-strategy">Platform Data Strategy</a></li>
@@ -145,7 +149,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#revise-and-resubmit" id="toc-revise-and-resubmit" class="nav-link" data-scroll-target="#revise-and-resubmit">Revise and Resubmit</a>
   <ul class="collapse">
   <li><a href="#graph-neural-networks-for-causal-inference-under-network-confounding" id="toc-graph-neural-networks-for-causal-inference-under-network-confounding" class="nav-link" data-scroll-target="#graph-neural-networks-for-causal-inference-under-network-confounding">Graph Neural Networks for Causal Inference Under Network Confounding</a></li>
-  <li><a href="#network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems" id="toc-network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems" class="nav-link" data-scroll-target="#network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems">Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms: The Role of Initial Community Structure Decision Support Systems</a></li>
   </ul></li>
   <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a>
   <ul class="collapse">
@@ -185,6 +188,12 @@ ul.task-list li input[type="checkbox"] {
 <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2026.00184">Article</a></p>
 <p>Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.</p>
 </section>
+<section id="network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-value-of-entry-community-information" class="level3">
+<h3 class="anchored" data-anchor-id="network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-value-of-entry-community-information">Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information</h3>
+<p><strong>Pantelis Loupos and Moran Cerf.</strong> <em>Decision Support Systems</em>, forthcoming.<br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697">Article</a></p>
+<p>Shows how the community revealed by a new user’s first transaction can identify future high-engagement users before behavioral histories develop, improving cold-start prioritization beyond user- and counterparty-level information.</p>
+</section>
 <section id="social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets" class="level3">
 <h3 class="anchored" data-anchor-id="social-drug-dealing-how-peer-to-peer-fintech-platforms-have-transformed-illicit-drug-markets">Social Drug Dealing: How Peer-to-Peer Fintech Platforms Have Transformed Illicit Drug Markets</h3>
 <p><strong>Jörn Boehnke, Pantelis Loupos, and Ying Gu.</strong> <em>Annals of Operations Research</em>, 2023.<br>
@@ -219,12 +228,6 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Michael Leung and Pantelis Loupos.</strong> Revise and resubmit at <em>The Review of Economic Studies</em>.<br>
 <a href="https://arxiv.org/abs/2211.07823">Article</a></p>
 <p>Develops a GNN-based framework for estimating causal effects in observational network data when treatment selection and outcomes are confounded by high-dimensional network structure.</p>
-</section>
-<section id="network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems" class="level3">
-<h3 class="anchored" data-anchor-id="network-based-decision-support-for-cold-start-user-prioritization-in-p2p-platforms-the-role-of-initial-community-structure-decision-support-systems">Network-Based Decision Support for Cold-Start User Prioritization in P2P Platforms: The Role of Initial Community Structure Decision Support Systems</h3>
-<p><strong>Pantelis Loupos and Moran Cerf.</strong> Revise and resubmit, <em>Decision Support Systems</em>.<br>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001978">Article</a></p>
-<p>Shows how a new user’s initial network position can predict future activity and customer value before meaningful behavioral history exists.</p>
 </section>
 </section>
 <section id="working-papers" class="level2">
