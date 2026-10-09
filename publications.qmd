@@ -17,7 +17,7 @@ format:
 
 Examines how AI can support peer-review workflows as submission volume grows and reviewer capacity becomes increasingly scarce.
 
-### [Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information](https://www.sciencedirect.com/science/article/abs/pii/S0167923626001697)
+### [Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information](https://doi.org/10.1016/j.dss.2026.114780)
 
 **Pantelis Loupos and Moran Cerf.** *Decision Support Systems*, 2026.  
 
