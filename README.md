@@ -45,6 +45,29 @@ quarto render
 
 The rendered website is written to `_site/`.
 
+## Security Maintenance
+
+The render runs `scripts/harden_site.py` to add a Content Security Policy and
+referrer policy to every generated HTML page. Inline script hashes are generated
+from the rendered content, so normal copy edits do not require manual CSP changes.
+Run `python3 -m unittest discover -s tests` when changing this script. Preview
+`_site/` over HTTP and check navigation, search, and browser console messages
+before deploying policy changes.
+
+GitHub Actions are pinned to commit hashes. Dependabot checks those pins monthly;
+review and test its update pull requests before merging. Deployment privileges
+are limited to the deployment job. Branch protection blocks force pushes and
+deletion while allowing ordinary updates by authorized contributors.
+
+GitHub Pages does not provide per-site custom response headers. The HTML policy
+cannot enforce `frame-ancestors` or `X-Frame-Options`; adding those would require
+a hosting or proxy configuration change. Do not put `frame-ancestors` into a meta
+tag and assume it is effective.
+
+Verify `loupos.org` under your personal GitHub **Settings -> Pages -> Add a domain**.
+Add the exact TXT name and value GitHub provides in Wix, preserving existing
+website and email records. Keep the verification TXT record after verification.
+
 ## Deploy to GitHub Pages
 
 This repository includes `.github/workflows/publish.yml`, which uses the standard GitHub Pages artifact flow:

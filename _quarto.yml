@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  post-render:
+    - python3 scripts/harden_site.py
 
 website:
   title: "Pantelis Loupos"
