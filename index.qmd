@@ -57,7 +57,7 @@ I study how firms should use platform data to make better decisions about growth
 
 ## Teaching
 
-My teaching focuses on how data, analytics, and AI can improve managerial decision-making. In the MBA program, I teach core Operations Management and Customer Analytics. In the MSBA program, I teach Big Data Analytics, covering modern data systems, machine learning, deep learning, network analytics, Spark, Kafka, graph neural networks, and large language models. I am also a certified NVIDIA instructor in deep learning.
+My teaching focuses on using analytical tools to improve managerial decision-making. In the MBA program, I teach core Operations Management and Customer Analytics; in the MSBA program, I teach Big Data Analytics, covering modern data systems, machine learning, network analytics, and AI. I am also a certified NVIDIA Deep Learning Institute instructor.
 
 [Teaching](teaching.qmd)
 
