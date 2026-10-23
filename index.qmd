@@ -14,13 +14,11 @@ toc: false
 
 **University of California, Davis Graduate School of Management**
 
-I study how networks and algorithms shape behavior and performance on digital platforms.
+My research studies how interdependence changes what firms can learn and how they should make decisions. I focus on settings where customers, treatments, algorithms, information, or resources cannot be analyzed in isolation because their effects propagate through a larger system.
 
-My research combines causal inference, econometrics, machine learning, and large-scale platform data to examine how users influence one another, how network structure predicts customer behavior and value, and how firms should design policies and algorithmic systems.
+I combine causal inference, machine learning, network science, and optimization to study these problems in digital platforms, social networks, recommendation systems, and other technology-mediated markets. A common theme across my work is that local inference and local optimization can be misleading when decisions affect one another. My goal is to develop methods that account for these interdependencies and improve both individual-level decisions and system-wide outcomes.
 
-Much of my work focuses on peer-to-peer and networked markets, including fintech, social payments, crypto ecosystems, and digital communities. Across these settings, I study adoption, engagement, fraud, recommendation systems, demand allocation, and long-run growth.
-
-A central premise of my work is that customers are not independent decision-making units. Their behavior and value emerge from interactions among users, network structure, and platform algorithms. I develop empirical and analytical frameworks to understand these interdependencies and design policies that improve both customer-level and system-level outcomes.
+Much of my applied work focuses on fintech and digital platforms, including peer-to-peer payments, crypto ecosystems, and other networked markets. I study how firms can use data and network structure to understand growth, engagement, customer value, and platform dynamics, and how they should design targeting, recommendations, and other data-driven policies.
 
 [Research](research.qmd){.btn .btn-primary} [Publications](publications.qmd){.btn .btn-outline-primary} [CV](cv.qmd){.btn .btn-outline-secondary}
 :::
